@@ -85,5 +85,5 @@ This project is licensed under the MIT License.
 
 Contact
 
-If you have any questions or issues with the scripts, please feel free to reach out to the repository maintainer at [your-email@example.com].
+If you have any questions or issues with the scripts, please feel free to reach out to the repository maintainer at [l.bozec@utoronto.ca].
 
